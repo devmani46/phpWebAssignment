@@ -22,6 +22,6 @@
 
    </div>
 
-   <p class="credit"> &copy; copyright  @ <?php echo date('Y'); ?> by <span>Group 16. </span> All Rights Reserved. </p>
+   <p class="credit"> &copy; copyright  @ <?php echo date('Y'); ?> by <span>Group 19. </span> All Rights Reserved. </p>
 
 </section>
