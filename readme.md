@@ -52,7 +52,7 @@ ElectroMart is a dynamic, PHP-based web application that allows users to browse,
 
 ## File Structure
 ```
-project1/
+phpWebAssignment/
     ├── about.php
     ├── add_to_cart.php
     ├── admin_contacts.php
