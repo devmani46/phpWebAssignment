@@ -61,7 +61,6 @@ if (isset($_GET['delete_all'])) {
 
 <div class="heading">
    <h3>Shopping Cart</h3>
-   <p> <a href="home.php">Home</a> / Cart </p>
 </div>
 
 <section class="shopping-cart">

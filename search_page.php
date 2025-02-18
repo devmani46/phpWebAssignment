@@ -60,7 +60,6 @@ if(isset($_POST['add_to_cart'])){
 
 <div class="heading">
    <h3>Search Page</h3>
-   <p> <a href="home.php">home</a> / search </p>
 </div>
 
 <section class="search-form">
